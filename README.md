@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gustavo Cotrim and I'm a Lead Business Analyst at Nubank, from São Paulo-Brazil.</p>
+<p align="left">My name is Gustavo Cotrim and I'm a Business Analytics Manager II at Nubank, from São Paulo-Brazil.</p>
 
 ###
 
