@@ -13,13 +13,6 @@
 - 🎓 Holds an MBA in Project Management from USP
 - 🌍 International professional and academic experience.
 
-###
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/gustavo-cotrim/github-readme-stats">
-
-<img height="180em" src="https://github-readme-stats-black-one-37.vercel.app/api?username=gustavo-cotrim&hide_rank=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
 ###
 
